@@ -1,0 +1,7 @@
+C:\Users\nagui\Desktop\khaled ITI\C#\Shopping system project using generics\Shopping system project using generics\bin\Debug\Shopping system project using generics.exe.config
+C:\Users\nagui\Desktop\khaled ITI\C#\Shopping system project using generics\Shopping system project using generics\bin\Debug\Shopping system project using generics.exe
+C:\Users\nagui\Desktop\khaled ITI\C#\Shopping system project using generics\Shopping system project using generics\bin\Debug\Shopping system project using generics.pdb
+C:\Users\nagui\Desktop\khaled ITI\C#\Shopping system project using generics\Shopping system project using generics\obj\Debug\Shopping system project using generics.csproj.AssemblyReference.cache
+C:\Users\nagui\Desktop\khaled ITI\C#\Shopping system project using generics\Shopping system project using generics\obj\Debug\Shopping system project using generics.csproj.CoreCompileInputs.cache
+C:\Users\nagui\Desktop\khaled ITI\C#\Shopping system project using generics\Shopping system project using generics\obj\Debug\Shopping system project using generics.exe
+C:\Users\nagui\Desktop\khaled ITI\C#\Shopping system project using generics\Shopping system project using generics\obj\Debug\Shopping system project using generics.pdb
